@@ -2,5 +2,5 @@
 
 void main(void)
 {
-printf("Bonjour le monde !\n");
+printf("Bonjour le monde !\n Hello world first !\n");
 }
