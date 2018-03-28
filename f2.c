@@ -2,5 +2,5 @@
 
 void main(void)
 {
-printf("Hello world first !\n");
+printf("Hello world first day !\n");
 }
